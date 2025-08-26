@@ -80,7 +80,7 @@ npx playwright test --project=webkit  #chromium/firefox/webkit => Make sure proj
 ### Monthly Index Values
 - Tracks FTSE 100 index values over time
 - Calculates monthly averages
-- Identifies lowest performing month in last 3 years
+- Identifies lowest performing months in the last 3 years
 
 
 ## Project Structure
@@ -122,3 +122,4 @@ Caplin-Test/
 3. **Test Reliability**
    - High reliability with different timing variations
    
+
